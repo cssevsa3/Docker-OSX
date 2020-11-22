@@ -51,7 +51,7 @@
 #       # you will also need to pass the device to the container
 #
 
-FROM docker.mirrors.ustc.edu.cn/sickcodes/docker-osx:latest
+FROM hub-mirror.c.163.com/sickcodes/docker-osx:latest
 
 MAINTAINER 'https://sick.codes' <https://sick.codes>
 
